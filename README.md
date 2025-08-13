@@ -66,6 +66,6 @@ It measures elapsed time in **minutes, seconds, and milliseconds**, and can be r
    cd arduino-projects
 
 ## 🌐 Connect with Me
-GitHub: github.com/MustafaAhmed789-coder
+GitHub: https://www.github.com/MustafaAhmed789-coder
 
-LinkedIn: linkedin.com/in/mustafa-ahmed-32b6501b6
+LinkedIn: https://www.linkedin.com/in/mustafa-ahmed-32b6501b6
